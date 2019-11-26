@@ -1,0 +1,4 @@
+git init
+git remote add origin https://github.com/fumihikos/hello-world.git
+git reset --hard
+git pull origin master
