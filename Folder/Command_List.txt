@@ -1,4 +1,9 @@
 git init
+git fetch --all
 git remote add origin https://github.com/fumihikos/hello-world.git
-git reset --hard
 git pull origin master
+git reset --hard origin/{branch_name}
+git pull origin master
+
+
+C:\WINDOWS\system32>DISM /online /enable-feature /featurename:NetFx3 /All /Source:C:\Users\ARKV2250V\Downloads\sources\sxs /LimitAccess
