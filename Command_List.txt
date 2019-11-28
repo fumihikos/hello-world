@@ -1,1 +1,1 @@
-git Remote add origin https://github.com/fumihikos/hello-world.git
+YES
